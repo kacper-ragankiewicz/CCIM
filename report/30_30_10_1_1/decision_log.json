@@ -1,0 +1,101 @@
+[
+    {
+        "current_node": 7,
+        "candidate": 5,
+        "edge_weight": 0.8589,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 7,
+        "candidate": 12,
+        "edge_weight": 0.6303,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 5,
+        "candidate": 23,
+        "edge_weight": 0.8954,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 23,
+        "candidate": 2,
+        "edge_weight": 0.7268,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 2,
+        "candidate": 14,
+        "edge_weight": 0.6648,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 14,
+        "candidate": 12,
+        "edge_weight": 0.9361,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 14,
+        "candidate": 25,
+        "edge_weight": 0.8359,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 12,
+        "candidate": 18,
+        "edge_weight": 0.7491,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 18,
+        "candidate": 26,
+        "edge_weight": 0.9167,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 26,
+        "candidate": 0,
+        "edge_weight": 0.8437,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 0,
+        "candidate": 25,
+        "edge_weight": 0.8122,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "current_node": 28,
+        "candidate": 5,
+        "edge_weight": 0.58,
+        "edge_type": "semantic",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    }
+]

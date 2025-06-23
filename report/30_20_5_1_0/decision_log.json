@@ -1,0 +1,56 @@
+[
+    {
+        "current_node": 0,
+        "candidate": 1,
+        "edge_weight": 0.9088,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 0,
+        "candidate": 29,
+        "edge_weight": 0.8446,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 0,
+        "candidate": 2,
+        "edge_weight": 0.8972,
+        "edge_type": "logical",
+        "priority": 3,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 0,
+        "candidate": 7,
+        "edge_weight": 0.7383,
+        "edge_type": "logical",
+        "priority": 4,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 1,
+        "candidate": 2,
+        "edge_weight": 0.9341,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 1,
+        "candidate": 29,
+        "edge_weight": 0.8032,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    }
+]

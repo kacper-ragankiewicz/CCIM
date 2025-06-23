@@ -1,0 +1,128 @@
+[
+    {
+        "current_node": 16,
+        "candidate": 15,
+        "edge_weight": 0.9746,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 16,
+        "candidate": 17,
+        "edge_weight": 0.9868,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 16,
+        "candidate": 14,
+        "edge_weight": 0.9704,
+        "edge_type": "logical",
+        "priority": 3,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 16,
+        "candidate": 1,
+        "edge_weight": 0.588,
+        "edge_type": "semantic",
+        "priority": 4,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 15,
+        "candidate": 14,
+        "edge_weight": 0.9542,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 15,
+        "candidate": 13,
+        "edge_weight": 0.9746,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 15,
+        "candidate": 17,
+        "edge_weight": 0.9531,
+        "edge_type": "logical",
+        "priority": 3,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 15,
+        "candidate": 7,
+        "edge_weight": 0.9289,
+        "edge_type": "logical",
+        "priority": 4,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 14,
+        "candidate": 13,
+        "edge_weight": 0.9264,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 14,
+        "candidate": 12,
+        "edge_weight": 0.9384,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 13,
+        "candidate": 12,
+        "edge_weight": 0.9112,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 12,
+        "candidate": 11,
+        "edge_weight": 0.5585,
+        "edge_type": "semantic",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 11,
+        "candidate": 17,
+        "edge_weight": 0.6295,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 17,
+        "candidate": 18,
+        "edge_weight": 0.776,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    }
+]

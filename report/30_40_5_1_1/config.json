@@ -1,0 +1,7 @@
+{
+    "sender_size": 30,
+    "receiver_size": 40,
+    "transmitting": 5,
+    "transmission_prob": 1,
+    "chaos_level": 1
+}

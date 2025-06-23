@@ -1,0 +1,119 @@
+[
+    {
+        "current_node": 26,
+        "candidate": 20,
+        "edge_weight": 0.9283,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 26,
+        "candidate": 29,
+        "edge_weight": 0.885,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 20,
+        "candidate": 15,
+        "edge_weight": 0.816,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 20,
+        "candidate": 1,
+        "edge_weight": 0.7752,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 15,
+        "candidate": 16,
+        "edge_weight": 0.9359,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 15,
+        "candidate": 25,
+        "edge_weight": 0.5621,
+        "edge_type": "semantic",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 16,
+        "candidate": 23,
+        "edge_weight": 0.7842,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 16,
+        "candidate": 7,
+        "edge_weight": 0.6412,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 23,
+        "candidate": 27,
+        "edge_weight": 0.6032,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 27,
+        "candidate": 29,
+        "edge_weight": 0.76,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 27,
+        "candidate": 25,
+        "edge_weight": 0.8059,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 27,
+        "candidate": 1,
+        "edge_weight": 0.9041,
+        "edge_type": "logical",
+        "priority": 3,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 29,
+        "candidate": 25,
+        "edge_weight": 0.919,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    }
+]

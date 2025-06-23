@@ -1,0 +1,47 @@
+[
+    {
+        "current_node": 3,
+        "candidate": 2,
+        "edge_weight": 0.9107,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 3,
+        "candidate": 1,
+        "edge_weight": 0.8323,
+        "edge_type": "logical",
+        "priority": 2,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 3,
+        "candidate": 5,
+        "edge_weight": 0.6735,
+        "edge_type": "logical",
+        "priority": 3,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 3,
+        "candidate": 13,
+        "edge_weight": 0.8888,
+        "edge_type": "logical",
+        "priority": 4,
+        "selected": true,
+        "skipped": false
+    },
+    {
+        "current_node": 2,
+        "candidate": 1,
+        "edge_weight": 0.8929,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    }
+]

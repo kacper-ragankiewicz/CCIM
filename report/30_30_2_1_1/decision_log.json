@@ -1,0 +1,11 @@
+[
+    {
+        "current_node": 14,
+        "candidate": 10,
+        "edge_weight": 0.9455,
+        "edge_type": "logical",
+        "priority": 1,
+        "selected": true,
+        "skipped": false
+    }
+]
